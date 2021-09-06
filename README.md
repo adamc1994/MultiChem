@@ -8,6 +8,6 @@ To compare the performance of multi-objective optimisation algorithms (MOOAs) fo
 |Lactose1 |	2 |	2 |	Pareto front is a convex curve with many solutions |
 |PK1 |	2 |	2 |	Pareto front is a convex curve with relatively few solutions |
 |PK2 |	3 |	2 |	Pareto front consists of three discontinuous linear and concave regions |
-## VdV1
-![VdV1 Scheme](Test%20Problems%20Code/Images/VdV%20Scheme.jpg)<br>
+## How to use
+Full instructions on how to use the package can be found in the ![README](Test%20Problems%20Code/README.docx) document
 
